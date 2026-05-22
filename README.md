@@ -37,8 +37,7 @@ An advanced analytical study exploring immunization rates, healthcare delivery b
 ### ⚡ GitHub Stats
 ![Duda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meteixeira30-lab&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteixeira30-lab&layout=compact&theme=radial)
----
-
+---                                                                          
 ## 📬 Connect with me:
 * **LinkedIn:** [Your LinkedIn Profile Link]
 * **Kaggle:** [https://www.kaggle.com/mariaeduardato]
