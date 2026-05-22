@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Maria Eduarda Teixeira Caetano  (You can call me Duda!)
 
-<!--
-**meteixeira30-lab/meteixeira30-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Aspiring Data Scientist | Healthcare & Occupational Analytics Enthusiast
+📍 Based in Chicago, IL  
+🗣️ **Languages:** Portuguese (Native) | English (Fluent) | Spanish (B2)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm an **Occupational Therapist** and healthcare professional leveraging the power of **Data Science** and **Python** to solve complex public health challenges. My work focuses on translating cold statistical data into meaningful human insights, analyzing healthcare policies, and understanding the social determinants of health.
+
+* 🔭 I’m currently working on advanced epidemiological data analysis regarding global COVID-19 vaccination progress and healthcare system resilience.
+* 🧠 Expert in connecting quantitative data (Pandas, Seaborn) with clinical perspectives (occupational justice, daily routines, functional rehabilitation).
+* 🚀 I love using **Google Colab** and open-source tools to build reproducible data pipelines.
+
+---
+
+## Tech Stack & Healthcare Competencies
+
+| Data Science Tools | Healthcare Expertise |
+| :--- | :--- |
+|  **Python** (Pandas, NumPy) | 🏥 Public Health & Epidemiology |
+|  **Data Viz** (Matplotlib, Seaborn) | 📋 Healthcare Policy Evaluation (SUS / Universal Systems) |
+|  **Version Control** (Git, GitHub) | 🧠 Occupational Therapy & Social Determinants (SDOH) |
+|  **Environments** (Google Colab, Notebooks) | 📈 Time Series & Healthcare Logistics |
+
+---
+
+## 📊 Featured Projects
+
+### 📈 [COVID-19 World Vaccination Progress](https://github.com/meteixeira30-lab/COVID-19-World-Vaccination-Progress)
+An advanced analytical study exploring immunization rates, healthcare delivery bottlenecks, and the structural resilience of public health systems like Brazil's SUS. 
+* **Keywords:** *Python, Data Analysis, Time Series, Public Health, Occupational Justice*
+
+
+### ⚡ GitHub Stats
+![Duda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meteixeira30-lab&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteixeira30-lab&layout=compact&theme=radial)
+---
+
+## 📬 Connect with me:
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Kaggle:** [https://www.kaggle.com/mariaeduardato]
