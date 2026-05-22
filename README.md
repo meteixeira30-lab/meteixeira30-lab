@@ -39,5 +39,5 @@ An advanced analytical study exploring immunization rates, healthcare delivery b
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteixeira30-lab&layout=compact&theme=radial)
 ---                                                                          
 ## 📬 Connect with me:
-* **LinkedIn:** [Your LinkedIn Profile Link]
+    * **LinkedIn:** [https://www.linkedin.com/in/maria-eduarda-teixeira-caetano-3b4468206?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 * **Kaggle:** [https://www.kaggle.com/mariaeduardato]
